@@ -1,2 +1,3 @@
 # JohenPerera123.github.io
-GitHub portfolio 
+My personal portfolio website showcasing projects and skills
+ 
